@@ -4,10 +4,17 @@
     <TargetFramework>net10.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>81fa9499-cf1c-4128-aa97-18543500dff3</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.12" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BourseApplication\BourseApplication.csproj" />
+    <ProjectReference Include="..\BourseInfrastructure\BourseInfrastructure.csproj" />
   </ItemGroup>
 
 </Project>

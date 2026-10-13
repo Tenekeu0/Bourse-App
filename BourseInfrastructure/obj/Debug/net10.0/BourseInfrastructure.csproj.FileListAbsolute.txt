@@ -1,0 +1,16 @@
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\bin\Debug\net10.0\BourseInfrastructure.deps.json
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\bin\Debug\net10.0\BourseInfrastructure.dll
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\bin\Debug\net10.0\BourseInfrastructure.pdb
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\bin\Debug\net10.0\BourseApplication.dll
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\bin\Debug\net10.0\BourseApplication.pdb
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\BourseInfrastructure.csproj.AssemblyReference.cache
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\BourseInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\BourseInfrastructure.AssemblyInfoInputs.cache
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\BourseInfrastructure.AssemblyInfo.cs
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\BourseInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\BourseInfrastructure.sourcelink.json
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\BourseIn.0A100AD9.Up2Date
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\BourseInfrastructure.dll
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\refint\BourseInfrastructure.dll
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\BourseInfrastructure.pdb
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseInfrastructure\obj\Debug\net10.0\ref\BourseInfrastructure.dll

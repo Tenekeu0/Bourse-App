@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\BourseApplication\\BourseApplication.csproj": {}
+    "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\Bourse-App\\BourseApplication\\BourseApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\BourseApplication\\BourseApplication.csproj": {
+    "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\Bourse-App\\BourseApplication\\BourseApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\BourseApplication\\BourseApplication.csproj",
+        "projectUniqueName": "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\Bourse-App\\BourseApplication\\BourseApplication.csproj",
         "projectName": "BourseApplication",
-        "projectPath": "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\BourseApplication\\BourseApplication.csproj",
+        "projectPath": "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\Bourse-App\\BourseApplication\\BourseApplication.csproj",
         "packagesPath": "C:\\Users\\tenek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\BourseApplication\\obj\\",
+        "outputPath": "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\Bourse-App\\BourseApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

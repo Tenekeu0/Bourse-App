@@ -1,0 +1,12 @@
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\bin\Debug\net10.0\BourseApplication.deps.json
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\bin\Debug\net10.0\BourseApplication.dll
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\bin\Debug\net10.0\BourseApplication.pdb
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\obj\Debug\net10.0\BourseApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\obj\Debug\net10.0\BourseApplication.AssemblyInfoInputs.cache
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\obj\Debug\net10.0\BourseApplication.AssemblyInfo.cs
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\obj\Debug\net10.0\BourseApplication.csproj.CoreCompileInputs.cache
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\obj\Debug\net10.0\BourseApplication.sourcelink.json
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\obj\Debug\net10.0\BourseApplication.dll
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\obj\Debug\net10.0\refint\BourseApplication.dll
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\obj\Debug\net10.0\BourseApplication.pdb
+C:\Users\tenek\OneDrive\Bureau\App\BourseApp\Bourse-App\BourseApplication\obj\Debug\net10.0\ref\BourseApplication.dll

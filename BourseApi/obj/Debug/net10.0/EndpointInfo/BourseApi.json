@@ -1,0 +1,115 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "BourseApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/health": {
+      "get": {
+        "tags": [
+          "BourseApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/order/validate": {
+      "post": {
+        "tags": [
+          "BourseApi"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TradeOrder"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/market/quote": {
+      "get": {
+        "tags": [
+          "BourseApi"
+        ],
+        "parameters": [
+          {
+            "name": "symbol",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/dashboard": {
+      "get": {
+        "tags": [
+          "BourseApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "OrderSide": {
+        "enum": [
+          0,
+          1
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "TradeOrder": {
+        "type": "object",
+        "properties": {
+          "symbol": {
+            "type": "string",
+            "nullable": true
+          },
+          "orderSide": {
+            "$ref": "#/components/schemas/OrderSide"
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "estimatedPrice": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "BourseApi"
+    }
+  ]
+}

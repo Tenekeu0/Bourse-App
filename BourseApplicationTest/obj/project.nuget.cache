@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JBj09Er5kFY=",
+  "dgSpecHash": "svhqTBFG71s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\BourseApplicationTest\\BourseApplicationTest.csproj",
+  "projectFilePath": "C:\\Users\\tenek\\OneDrive\\Bureau\\App\\BourseApp\\Bourse-App\\BourseApplicationTest\\BourseApplicationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tenek\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\tenek\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",
